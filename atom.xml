@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>苹果圈圈</title>
+  
+  <subtitle>瑜伽、冥想、创新</subtitle>
+  <link href="https://applejamm.github.io/applejamm.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://applejamm.github.io/applejamm.github.io/"/>
+  <updated>2024-06-24T14:14:41.780Z</updated>
+  <id>https://applejamm.github.io/applejamm.github.io/</id>
+  
+  <author>
+    <name>马菲菲</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>巴别塔隐喻与敏捷方法论</title>
+    <link href="https://applejamm.github.io/applejamm.github.io/2024/06/19/%E5%B7%B4%E5%88%AB%E5%A1%94%E9%9A%90%E5%96%BB%E4%B8%8E%E6%95%8F%E6%8D%B7%E6%96%B9%E6%B3%95%E8%AE%BA/"/>
+    <id>https://applejamm.github.io/applejamm.github.io/2024/06/19/%E5%B7%B4%E5%88%AB%E5%A1%94%E9%9A%90%E5%96%BB%E4%B8%8E%E6%95%8F%E6%8D%B7%E6%96%B9%E6%B3%95%E8%AE%BA/</id>
+    <published>2024-06-19T15:19:01.000Z</published>
+    <updated>2024-06-24T14:14:41.780Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;&lt;em&gt;巴别塔是《圣经·创世纪》中的故事中的一座塔，也称为巴别塔。&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;据说，在人类的早期历史中，人们试图建造一座高耸入云的塔，以挑战上帝的权威。上帝为了阻止他们的傲慢和自大，使他们的语言混乱，导致他们无法互相理解，从而使得他们无法完成塔的建设。</summary>
+        
+      
+    
+    
+    
+    <category term="敏捷" scheme="https://applejamm.github.io/applejamm.github.io/categories/%E6%95%8F%E6%8D%B7/"/>
+    
+    
+    <category term="沟通" scheme="https://applejamm.github.io/applejamm.github.io/tags/%E6%B2%9F%E9%80%9A/"/>
+    
+    <category term="敏捷" scheme="https://applejamm.github.io/applejamm.github.io/tags/%E6%95%8F%E6%8D%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>0-1孵化日记</title>
+    <link href="https://applejamm.github.io/applejamm.github.io/2024/06/14/0-1%E5%AD%B5%E5%8C%96%E6%97%A5%E8%AE%B0/"/>
+    <id>https://applejamm.github.io/applejamm.github.io/2024/06/14/0-1%E5%AD%B5%E5%8C%96%E6%97%A5%E8%AE%B0/</id>
+    <published>2024-06-13T16:24:12.000Z</published>
+    <updated>2024-06-20T16:20:27.232Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;我2023年一个IT产品孵化项目中做产品负责人，这块产品服务的业务属于toB的一个专业域。&lt;/p&gt;
+&lt;p&gt;业务背景为&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;企业组织需要从行业内引入一套全新的解决方案，用来降低协同成本，建设组织内的信息总线。&lt;/li&gt;
+&lt;li&gt;企业组织缺乏有经验的业务方</summary>
+        
+      
+    
+    
+    
+    <category term="产品" scheme="https://applejamm.github.io/applejamm.github.io/categories/%E4%BA%A7%E5%93%81/"/>
+    
+    
+    <category term="产品创新" scheme="https://applejamm.github.io/applejamm.github.io/tags/%E4%BA%A7%E5%93%81%E5%88%9B%E6%96%B0/"/>
+    
+    <category term="产品经理" scheme="https://applejamm.github.io/applejamm.github.io/tags/%E4%BA%A7%E5%93%81%E7%BB%8F%E7%90%86/"/>
+    
+    <category term="数字化" scheme="https://applejamm.github.io/applejamm.github.io/tags/%E6%95%B0%E5%AD%97%E5%8C%96/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>敏捷</title>
+    <link href="https://applejamm.github.io/applejamm.github.io/2024/06/13/%E6%95%8F%E6%8D%B7/"/>
+    <id>https://applejamm.github.io/applejamm.github.io/2024/06/13/%E6%95%8F%E6%8D%B7/</id>
+    <published>2024-06-13T15:58:52.000Z</published>
+    <updated>2024-06-20T16:17:31.081Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;敏捷软件开发的四个核心价值是&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;个体和互动高于流程和工具&lt;/li&gt;
+&lt;li&gt;工作的软件高于详尽的文档&lt;/li&gt;
+&lt;li&gt;客户合作高于合同谈判&lt;/li&gt;
+&lt;li&gt;响应变化高于遵循计划&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;我们遵循以下准则：&lt;br&gt;1．</summary>
+        
+      
+    
+    
+    
+    <category term="敏捷" scheme="https://applejamm.github.io/applejamm.github.io/categories/%E6%95%8F%E6%8D%B7/"/>
+    
+    
+    <category term="敏捷" scheme="https://applejamm.github.io/applejamm.github.io/tags/%E6%95%8F%E6%8D%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://applejamm.github.io/applejamm.github.io/2024/06/12/hello-world/"/>
+    <id>https://applejamm.github.io/applejamm.github.io/2024/06/12/hello-world/</id>
+    <published>2024-06-12T15:37:35.000Z</published>
+    <updated>2024-06-24T13:57:45.349Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
+    <category term="自留地" scheme="https://applejamm.github.io/applejamm.github.io/categories/%E8%87%AA%E7%95%99%E5%9C%B0/"/>
+    
+    
+    <category term="helloworld" scheme="https://applejamm.github.io/applejamm.github.io/tags/helloworld/"/>
+    
+  </entry>
+  
+</feed>
